@@ -1,0 +1,6 @@
+C:\Users\tural\source\repos\C vs Faranheyt\C vs Faranheyt\bin\Debug\C vs Faranheyt.exe
+C:\Users\tural\source\repos\C vs Faranheyt\C vs Faranheyt\bin\Debug\C vs Faranheyt.pdb
+C:\Users\tural\source\repos\C vs Faranheyt\C vs Faranheyt\obj\Debug\C vs Faranheyt.csproj.AssemblyReference.cache
+C:\Users\tural\source\repos\C vs Faranheyt\C vs Faranheyt\obj\Debug\C vs Faranheyt.csproj.CoreCompileInputs.cache
+C:\Users\tural\source\repos\C vs Faranheyt\C vs Faranheyt\obj\Debug\C vs Faranheyt.exe
+C:\Users\tural\source\repos\C vs Faranheyt\C vs Faranheyt\obj\Debug\C vs Faranheyt.pdb
